@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
 * Студент: [Roman Toporov](https://up.htmlacademy.ru/adaptive/25/user/1808931).
-* Наставник: `Денис Байдаров`.
+* Наставник: [Денис Байдаров](https://htmlacademy.ru/profile/4er).
 
 ---
 
